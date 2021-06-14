@@ -1,0 +1,10 @@
+C:\Users\ace_c\Documents\Visual Studio 2019\ITDesarrollos\Desafio\Desafio\bin\Debug\Desafio.exe.config
+C:\Users\ace_c\Documents\Visual Studio 2019\ITDesarrollos\Desafio\Desafio\bin\Debug\Desafio.exe
+C:\Users\ace_c\Documents\Visual Studio 2019\ITDesarrollos\Desafio\Desafio\bin\Debug\Desafio.pdb
+C:\Users\ace_c\Documents\Visual Studio 2019\ITDesarrollos\Desafio\Desafio\obj\Debug\Desafio.csproj.AssemblyReference.cache
+C:\Users\ace_c\Documents\Visual Studio 2019\ITDesarrollos\Desafio\Desafio\obj\Debug\Desafio.Form_Order.resources
+C:\Users\ace_c\Documents\Visual Studio 2019\ITDesarrollos\Desafio\Desafio\obj\Debug\Desafio.Properties.Resources.resources
+C:\Users\ace_c\Documents\Visual Studio 2019\ITDesarrollos\Desafio\Desafio\obj\Debug\Desafio.csproj.GenerateResource.cache
+C:\Users\ace_c\Documents\Visual Studio 2019\ITDesarrollos\Desafio\Desafio\obj\Debug\Desafio.csproj.CoreCompileInputs.cache
+C:\Users\ace_c\Documents\Visual Studio 2019\ITDesarrollos\Desafio\Desafio\obj\Debug\Desafio.exe
+C:\Users\ace_c\Documents\Visual Studio 2019\ITDesarrollos\Desafio\Desafio\obj\Debug\Desafio.pdb
